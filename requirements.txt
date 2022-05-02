@@ -1,4 +1,4 @@
 beautifulsoup4==4.11.1
 requests==2.25.1
 tqdm==4.59.0
-Wikipedia_API==0.5.4
+Wikipedia-API==0.5.4

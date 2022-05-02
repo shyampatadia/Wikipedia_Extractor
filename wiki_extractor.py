@@ -17,7 +17,7 @@ args = parser.parse_args()
 args.keyword = str(args.keyword).replace(" ", "+")
 
 #constants
-WIKIPEDIA_API = f"https://en.wikipedia.org/w/index.php?title=Special:Search&limit={0}&offset={1}&profile=default&search={2}&ns0=1"
+WIKIPEDIA_API = "https://en.wikipedia.org/w/index.php?title=Special:Search&limit={0}&offset={1}&profile=default&search={2}&ns0=1"
 OFF_SET = 0
 
 

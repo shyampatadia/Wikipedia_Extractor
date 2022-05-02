@@ -51,7 +51,7 @@ def generate_json(final_list, output_file_name):
         final_list (list): a list object that we want to store it in json format
         output_file_name (string): name of the output file
     """
-    if output_file_name.contains(".json"):
+    if ".json" in output_file_name:
         with open(output_file_name, 'w') as f:
             json.dump(final_list, f) 
     else:

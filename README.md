@@ -16,7 +16,7 @@ C:\Users\username\Wikipedia_Extractor>python wiki_extractor.py --keyword="Indian
 ```
 Once the above command is executed successfully the output file will be generated ,as follows, in the current directory.
 
-```json
+```yaml
 [
     {
         "url":"URL for related page no: 1",

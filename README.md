@@ -25,11 +25,9 @@ Once the above command is executed successfully the output file will be generate
     {
         "url":"URL for related page no: 2",
         "content":"Content of the related page no: 2"
-    },
-    .
-    .
-    .
-    .,
+    }
+    ......
+    ,
     {
         "url":"URL for related page no: 10",
         "content":"Content of the related page no: 10"

@@ -35,4 +35,8 @@ Once the above command is executed successfully the output file will be generate
 ]
 ```
 
+## Future Scope:
+ - Currently only upto 10,000 related pages can be requested using the wikipedia api, if anyone from the community knows how we can try to extract more related pages please create a PR for that, it would be really helpful.  
+
+
 
